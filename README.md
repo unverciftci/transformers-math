@@ -25,3 +25,7 @@ http://proceedings.mlr.press/v119/bhojanapalli20a/bhojanapalli20a.pdf
 operator
 
 https://www.jmlr.org/papers/volume23/21-1521/21-1521.pdf
+
+general
+
+https://arxiv.org/pdf/1906.11945.pdf
