@@ -6,8 +6,6 @@ https://arxiv.org/pdf/2110.10090.pdf
 
 https://arxiv.org/pdf/2210.02671.pdf
 
-https://arxiv.org/pdf/2210.05359.pdf
-
 https://arxiv.org/pdf/2210.05675.pdf
 
 https://arxiv.org/pdf/1908.11775.pdf
